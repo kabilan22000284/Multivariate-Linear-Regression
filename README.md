@@ -25,8 +25,8 @@ Print the predicted output.
 
 ## Program:
 ```
-Developed by: Tharunkumsar.M
-register no: 2122221000546
+Developed by: Kabilan.V
+register no: 212222100018
 import pandas as pd
 from sklearn import linear_model
 df=pd.read_csv("cars (1).csv")
@@ -46,7 +46,8 @@ print("Amount:",regr.predict([[3300,1300]]))
 
 ### Insert your output
 
-![2](https://github.com/25tharunkumar/Multivariate-Linear-Regression/assets/123470785/68aaf939-589b-435d-9491-4b479b9a38c6)
+![244925093-68aaf939-589b-435d-9491-4b479b9a38c6](https://github.com/kabilan22000284/Multivariate-Linear-Regression/assets/123469171/eb0fed0e-3a0b-42ec-a00f-fc3aa23fec58)
+
 
 
 ## Result
